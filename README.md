@@ -1,8 +1,9 @@
 # 🌙 Hello
 
-<p align="center">
-  <img src="https://github.com/ClementReverbel/ClementReverbel/blob/main/banner.gif" width="70%">
-</p>
+<div style="width:100%; overflow:hidden;">
+  <img src="https://github.com/ClementReverbel/ClementReverbel/blob/main/banner.gif" style="width:100%; object-fit:cover; height:150px;">
+</div>
+
 
 ---
 
