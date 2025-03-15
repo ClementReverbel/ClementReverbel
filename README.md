@@ -9,6 +9,7 @@
 ### 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementReverbel&show_icons=true&theme=tokyonight&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementReverbel&layout=compact&theme=tokyonight&hide_border=true)  
+![World Map](https://github.com/ONDRP/hitmap/raw/main/hitmap.svg)
 
 ---
 
