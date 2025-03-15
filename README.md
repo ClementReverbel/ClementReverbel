@@ -1,11 +1,22 @@
 # 🌙 Salut, Je suis Clément Reverbel!  
 
+![Snake animation](https://github.com/ClementReverbel/ClementReverbel/blob/output/github-contribution-grid-snake.svg)
+
+                                                                                                 
+ _______  _                                        ______                               _             _  
+(_______)| |                                _     (_____ \                             | |           | | 
+ _       | |  _____  ____   _____  ____   _| |_    _____) ) _____  _   _  _____   ____ | |__   _____ | | 
+| |      | | | ___ ||    \ | ___ ||  _ \ (_   _)  |  __  / | ___ || | | || ___ | / ___)|  _ \ | ___ || | 
+| |_____ | | | ____|| | | || ____|| | | |  | |_   | |  \ \ | ____| \ V / | ____|| |    | |_) )| ____|| | 
+ \______) \_)|_____)|_|_|_||_____)|_| |_|   \__)  |_|   |_||_____)  \_/  |_____)|_|    |____/ |_____) \_)
+                                                                                                         
+                                                                                            
+
 ---
 
 ### 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementReverbel&show_icons=true&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ClementReverbel&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementReverbel&layout=compact&theme=tokyonight&hide_border=true)  
 
 ---
