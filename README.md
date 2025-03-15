@@ -1,7 +1,7 @@
-# 🌙 Salut, Je suis Clément Reverbel!  
+# 🌙 Hello
 
 <p align="center">
-  <img src="https://github.com/ClementReverbel/ClementReverbel/blob/main/banner.gif" width="800px">
+  <img src="https://github.com/ClementReverbel/ClementReverbel/blob/main/banner.gif" width="70%">
 </p>
 
 ---
@@ -22,6 +22,6 @@
 
 ### 📫 Contact  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-reverbel-243392327/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-reverbel-243392327/)  🔗 [Discord](https://discord.com/users/446282191442411520)  
 
 
