@@ -13,6 +13,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementReverbel&show_icons=true&theme=tokyonight&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementReverbel&layout=compact&theme=tokyonight&hide_border=true)  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clementreverbel&show_icons=true&locale=en&layout=compact" alt="clementreverbel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clementreverbel&show_icons=true&locale=en" alt="clementreverbel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clementreverbel&" alt="clementreverbel" /></p>
+
 ---
 
 ### 🎖️ Badges  
