@@ -1,6 +1,8 @@
 # 🌙 Salut, Je suis Clément Reverbel!  
 
-![Hollow Knight Map](https://github.com/ClementReverbel/ClementReverbel/blob/main/hollow-knight-reading-map-pixel-art.gif)
+<p align="center">
+  <img src="https://github.com/ClementReverbel/ClementReverbel/blob/main/hollow-knight-reading-map-pixel-art.gif" width="250">
+</p>
 ---
 
 ### 📊 GitHub Stats  
