@@ -1,6 +1,6 @@
 # 🌙 Salut, Je suis Clément Reverbel!  
 
-![Hollow Knight Reading Map](https://media.tenor.com/images/04c47e9cc8fe158a939fdf7e1c22ccfb/tenor.gif)
+<div class="tenor-gif-embed" data-postid="8043633549067461458" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hollow-knight-reading-map-pixel-art-gif-8043633549067461458">Hollow Knight Reading Map Pixel Art GIF</a>from <a href="https://tenor.com/search/hollow+knight+reading+map+pixel+art-gifs">Hollow Knight Reading Map Pixel Art GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
                                                                                                  
  _______  _                                        ______                               _             _  
 (_______)| |                                _     (_____ \                             | |           | | 
@@ -22,9 +22,9 @@
 
 ### 🎖️ Badges  
 
-![Visiteurs](https://komarev.com/ghpvc/?username=ClementReverbel&color=blue)  
+![Visiteurs](https://komarev.com/ghpvc/?username=ClementReverbel&color=blue) ![Followers](https://img.shields.io/github/followers/ClementReverbel?style=social)  
 ![Dernier Commit](https://img.shields.io/github/last-commit/ClementReverbel/ClementReverbel?logo=github&style=for-the-badge)  
-![Followers](https://img.shields.io/github/followers/ClementReverbel?style=social)  
+
 
 ---
 
