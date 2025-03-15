@@ -22,6 +22,6 @@
 
 ### 📫 Contact  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-reverbel-243392327/)  🔗 [Discord](https://discord.com/users/446282191442411520)  
+🔗 [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-reverbel-243392327/)  🔗 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/446282191442411520)  
 
 
