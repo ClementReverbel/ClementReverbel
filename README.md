@@ -1,7 +1,6 @@
 # 🌙 Salut, Je suis Clément Reverbel!  
 
-![Snake animation](https://github.com/ClementReverbel/ClementReverbel/blob/output/github-contribution-grid-snake.svg)
-
+![Hollow Knight Reading Map](https://media.tenor.com/images/04c47e9cc8fe158a939fdf7e1c22ccfb/tenor.gif)
                                                                                                  
  _______  _                                        ______                               _             _  
 (_______)| |                                _     (_____ \                             | |           | | 
