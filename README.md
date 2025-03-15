@@ -1,7 +1,7 @@
 # 🌙 Salut, Je suis Clément Reverbel!  
 
 <p align="center">
-  <img src="https://github.com/ClementReverbel/ClementReverbel/blob/main/hollow-knight-reading-map-pixel-art.gif" width="800px">
+  <img src="https://github.com/ClementReverbel/ClementReverbel/blob/main/banner.gif" width="800px">
 </p>
 
 ---
