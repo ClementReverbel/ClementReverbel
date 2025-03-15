@@ -1,14 +1,14 @@
 # 🌙 Salut, Je suis Clément Reverbel!  
 
 <p align="center">
-  <img src="https://github.com/ClementReverbel/ClementReverbel/blob/main/hollow-knight-reading-map-pixel-art.gif" width="250">
+  <img src="https://github.com/ClementReverbel/ClementReverbel/blob/main/hollow-knight-reading-map-pixel-art.gif" width="100%" style="border-radius: 10px; border: 2px solid #ccc; background-color: #1e1e1e; padding: 10px;">
 </p>
+
 ---
 
 ### 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementReverbel&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementReverbel&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementReverbel&show_icons=true&theme=tokyonight&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementReverbel&layout=compact&theme=tokyonight&hide_border=true)  
 
 ---
 
