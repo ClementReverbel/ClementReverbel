@@ -10,7 +10,7 @@
 
 ##### Languages et outils
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,postman,sublime,linux,debian,docker,c,flutter,dart,eclipse,idea,vscode,java,py,mongodb,mysql,sqlite,netlify,git,github,gitlab,godot&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,postman,sublime,linux,debian,docker,c,flutter,dart,eclipse,idea,vscode,java,py,mongodb,mysql,sqlite,git,github,gitlab,godot&perline=9)](https://skillicons.dev)
 
 ##### Statistiques de mes repositories : - *Retrouver mes autres projets dans mes repositories pinned - Projet où je suis contributeur direct*
 
