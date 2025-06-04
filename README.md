@@ -14,7 +14,8 @@
 
 ##### Statistiques de mes repositories : - *Retrouver mes autres projets dans mes repositories pinned - Projet où je suis contributeur direct*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementReverbel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementReverbel&layout=compact&theme=tokyonight&hide_border=true)  ![Profile Views](https://komarev.com/ghpvc/?username=ClementReverbel&label=Vues+du+profil&color=blue&style=flat-square)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementReverbel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementReverbel&layout=compact&theme=tokyonight&hide_border=true)  
+![Profile Views](https://komarev.com/ghpvc/?username=ClementReverbel&label=Vues+du+profil&color=blue&style=flat-square)
 
 
 
