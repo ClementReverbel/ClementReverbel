@@ -1,4 +1,4 @@
-# 🌙 Hello
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E7ED1C&width=435&lines=%F0%9F%8C%99+Hello)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github.com/ClementReverbel/ClementReverbel/blob/main/banner.gif" width="70%">
@@ -14,7 +14,8 @@
 
 ##### Statistiques de mes repositories : - *Retrouver mes autres projets dans mes repositories pinned - Projet où je suis contributeur direct*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementReverbel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementReverbel&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementReverbel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementReverbel&layout=compact&theme=tokyonight&hide_border=true)  ![Profile Views](https://komarev.com/ghpvc/?username=ClementReverbel&label=Vues+du+profil&color=blue&style=flat-square)
+
 
 
 ---
